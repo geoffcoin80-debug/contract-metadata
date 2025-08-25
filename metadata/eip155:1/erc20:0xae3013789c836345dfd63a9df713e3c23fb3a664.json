@@ -1,0 +1,9 @@
+{
+  "eip155:1/erc20:0xAe3013789C836345Dfd63a9DF713E3c23fB3A664": {
+    "name": "GEOFF COIN",
+    "symbol": "GEOFF",
+    "decimals": 18,
+    "erc20": true,
+    "logo": "./icons/eip155:1/erc20:0xae3013789c836345dfd63a9df713e3c23fb3a664.svg"
+  }
+}
